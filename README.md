@@ -48,3 +48,78 @@
 <li>Business Management</li>
 <li>Social Media</li>
 </ul>
+
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Tools 🔧</h3><a id="user-content-tools-wrench" class="anchor" aria-label="Permalink: Tools :wrench:" href="#tools-wrench"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://www.atlassian.com/pl/software/jira" rel="nofollow">Jira</a>, <a href="https://trello.com/pl/tour" rel="nofollow">Trello</a>,  <a href="https://clickup.com/" rel="nofollow">Clickup</a>- project management and bug tracking</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.testrail.com/" rel="nofollow">Testrail</a>, <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&amp;hosting=cloud" rel="nofollow">xray</a> - Test case management tools</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.atlassian.com/software/confluence" rel="nofollow">Confluence</a> - Storing informations and documents about project</p>
+</li>
+<li>
+<p dir="auto"><a href="https://slack.com/" rel="nofollow">Slack</a> - Communication within the team</p>
+</li>
+<li>
+<p dir="auto"><a href="https://developer.chrome.com/docs/devtools/" rel="nofollow">Chrome Devtools</a> - For better testing and improving bug reports</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.google.com/intl/pl_pl/drive/" rel="nofollow">Google Drive</a> - Storing data</p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/">GitHub</a> - Supporting Git and preparing my repositories</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.postman.com/" rel="nofollow">Postman</a> - API testing</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.java.com/en/" rel="nofollow">Java</a> - Java scripting</p>
+</li>
+<li>
+<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow">Visual Studio Code</a> - Python, JAVA Scription coding</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.selenium.dev/" rel="nofollow">Selenium</a> - Web Automation Testing</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.cypress.io/" rel="nofollow">Cypress</a> - Automation testing</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.eclipse.org/" rel="nofollow">Eclipse</a> - Java scripting IDE</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.browserstack.com/" rel="nofollow">BrowserStack</a> - Cross browser testing tool</p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.jenkins.io/" rel="nofollow">Jenkins</a> - Testing pipelines tool</p>
+</li>
+<li>
+<p dir="auto"><a href="https://azure.microsoft.com/en-us/products/devops" rel="nofollow">AzureDevops</a> - Testing pipelines tool</p>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Testing Types 🧪:</h3><a id="user-content-testing-types-" class="anchor" aria-label="Permalink: Testing Types 🧪:" href="#testing-types-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>Functional testing</li>
+<li>API testing</li>
+<li>Software testing</li>
+<li>Functional testing</li>
+<li>DB testing</li>
+<li>Automation testing</li>
+<li>Regression testing</li>
+<li>Mobile Automation testing through BrowserStack</li>
+<li>Performance Testing</li>
+<li>Unit Testing</li>
+<li>Grey box testing</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Programming and Query languages:</h3><a id="user-content-programming-and-query-languages" class="anchor" aria-label="Permalink: Programming and Query languages:" href="#programming-and-query-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>Java</li>
+<li>Python</li>
+<li>Java script</li>
+<li>Type Script</li>
+<li>SQL</li>
+</ul>
+
